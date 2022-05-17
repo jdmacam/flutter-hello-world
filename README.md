@@ -1,4 +1,4 @@
-# hello_world
+# startup-namer
 
 A new Flutter project.
 
